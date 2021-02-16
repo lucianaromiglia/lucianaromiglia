@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola, soy [Luciana Romiglia][website] 👋
 
-**lucianaromiglia/lucianaromiglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/LRomiglia?color=1da1f2&label=LRomiglia&logo=Twitter&style=for-the-badge)](https://twitter.com/LRomiglia)
 
-Here are some ideas to get you started:
+### 💻 Web Developer 📊 Contadora 📚 Docente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Soy programadora, apasionada por el desarrollo web desde hace 20 años.
+- 📚 También trabajo como docente y me encanta
+- 📊 Soy contadora y, aunque no ejerzo, me facilita descubrir las potencialidades de tu idea y ayudarte a visibilizarlas de la manera mas simple y eficiente.
+- 🌱 Me divierte investigar y aprender cosas nuevas
+- 💬 Podés preguntarme sobre front-end
+- ⚡ Dato curioso: me gusta salir a correr
 
-Bye!
+---
+
+<!-- Links -->
+[website]: http://lucianaromiglia.com.ar/
