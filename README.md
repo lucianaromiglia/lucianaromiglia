@@ -50,7 +50,7 @@ Algunas de las tecnologías que fui sumando:
 - [Flexi Boxes](https://the-echoplex.net/flexyboxes/)
 
 ---
-### :heart: Canales que me han ayudado 
+### :heart: Canales que me gustan 
 - [Navis Code](https://www.youtube.com/channel/UC9tcfsScui3S70hp_wC_EPw)
 - [Carlos Azaustre](https://www.youtube.com/user/azaman1984)
 
