@@ -4,7 +4,7 @@
 
 ### 💻 Web Developer 📊 Contadora 📚 Docente
 
-- 🔭 Soy programadora, apasionada por el desarrollo web desde hace 20 años.
+- 🔭 Soy programadora, apasionada por el desarrollo web.
 - 📚 También trabajo como docente y me encanta
 - 📊 Soy contadora y, aunque no ejerzo, me facilita descubrir las potencialidades de tu idea y ayudarte a visibilizarlas de la manera mas simple y eficiente.
 - 🌱 Me divierte investigar y aprender cosas nuevas
@@ -30,7 +30,7 @@ Algunas de las tecnologías que fui sumando:
 
 
 ---
-### :heart: Links y recursos
+### :hammer: Links y recursos
 
 #### :rainbow: Paletas
 - [Html Color Codes](https://htmlcolorcodes.com/es/)
@@ -49,6 +49,10 @@ Algunas de las tecnologías que fui sumando:
 - [Layoutit!](https://grid.layoutit.com/)
 - [Flexi Boxes](https://the-echoplex.net/flexyboxes/)
 
+---
+### :heart: Canales que me han ayudado 
+- [Navis Code](https://www.youtube.com/channel/UC9tcfsScui3S70hp_wC_EPw)
+- [Carlos Azaustre](https://www.youtube.com/user/azaman1984)
 
 <!-- Links -->
 [website]: http://lucianaromiglia.com.ar/
