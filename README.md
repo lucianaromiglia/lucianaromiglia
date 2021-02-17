@@ -30,7 +30,7 @@ Algunas de las tecnologías que fui sumando:
 
 
 ---
-### 🚀 Links y recursos
+### :heart: Links y recursos
 
 #### :rainbow: Paletas
 - [Html Color Codes](https://htmlcolorcodes.com/es/)
