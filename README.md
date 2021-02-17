@@ -30,6 +30,25 @@ Algunas de las tecnologías que fui sumando:
 
 
 ---
+### 🚀 Links y recursos
+
+#### :rainbow: Paletas
+- [Html Color Codes](https://htmlcolorcodes.com/es/)
+- [Color Space](https://mycolor.space/)
+- [U.S. Brand Colors](https://usbrandcolors.com/)
+
+#### :star: Iconos
+- [Iconos de marcas](https://simpleicons.org/)
+- [Iconos github](https://gist.github.com/rxaviers/7360908)
+- [Font Awesome](https://fontawesome.com/)
+- [Iconic](https://useiconic.com/icons/)
+- [Material Design](https://material.io/design/iconography/system-icons.html)
+
+#### :tophat: Juegos y trucos
+- [Animista](https://animista.net/)
+- [Layoutit!](https://grid.layoutit.com/)
+- [Flexi Boxes](https://the-echoplex.net/flexyboxes/)
+
 
 <!-- Links -->
 [website]: http://lucianaromiglia.com.ar/
