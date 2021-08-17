@@ -45,14 +45,18 @@ Algunas de las tecnologías que fui sumando:
 - [Material Design](https://material.io/design/iconography/system-icons.html)
 
 #### :tophat: Juegos y trucos
-- [Animista](https://animista.net/)
-- [Layoutit!](https://grid.layoutit.com/)
-- [Flexi Boxes](https://the-echoplex.net/flexyboxes/)
+- [Animista](https://animista.net/). Animaciones para todos los gustos, ¡y con su código!
+- [Layoutit!](https://grid.layoutit.com/). Generador de grilla. Un buen espacio para prácticar CSS Grid de manera visual.
+- [Flexi Boxes](https://the-echoplex.net/flexyboxes/). Interfaz gráfica y sencilla para prácticar Flexbox.
+- [Flexbox Froggy](http://flexboxfroggy.com/#es) 🐸.Gratuito y sin necesidad de iniciar sesión. Cuenta con 24 niveles y está traducido al castellano.   
+- [Flexbox Defense](http://www.flexboxdefense.com/) 🛡️. Un Tower Defense a base de flexbox. Son 12 fases.     
+- [Flexbox Zombies](http://mastery.games/flexboxzombies) 🧟‍♂ Aprende Flexbox mientras te enfrentas a hordas de zombies. ¡Es genial!         
+
 
 ---
-### :heart: Canales que me gustan 
+<!-- ### :heart: Canales que me gustan 
 - [Navis Code](https://www.youtube.com/channel/UC9tcfsScui3S70hp_wC_EPw)
-- [Carlos Azaustre](https://www.youtube.com/user/azaman1984)
+- [Carlos Azaustre](https://www.youtube.com/user/azaman1984) -->
 
 <!-- Links -->
 [website]: http://lucianaromiglia.com.ar/
