@@ -55,8 +55,7 @@ Algunas de las tecnologías que fui sumando:
 
 ---
 <!-- ### :heart: Canales que me gustan 
-- [Navis Code](https://www.youtube.com/channel/UC9tcfsScui3S70hp_wC_EPw)
-- [Carlos Azaustre](https://www.youtube.com/user/azaman1984) -->
+ -->
 
 <!-- Links -->
 [website]: http://lucianaromiglia.com.ar/
