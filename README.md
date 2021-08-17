@@ -1,6 +1,6 @@
 ### Hola, soy [Luciana Romiglia][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/LRomiglia?color=1da1f2&label=LRomiglia&logo=Twitter&style=for-the-badge)](https://twitter.com/LRomiglia) [![LinkedIn](https://img.shields.io/badge/Lucianaromiglia-666666?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/lucianaromiglia/) [![Instagram](https://img.shields.io/badge/lucianaromiglia-666666?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/lucianaromiglia/)
+[![LinkedIn](https://img.shields.io/badge/Lucianaromiglia-666666?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/lucianaromiglia/) [![Instagram](https://img.shields.io/badge/lucianaromiglia-666666?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/lucianaromiglia/)
 
 ### 💻 Web Developer 📊 Contadora 📚 Docente
 
